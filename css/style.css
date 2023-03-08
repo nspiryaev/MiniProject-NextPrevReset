@@ -1,0 +1,23 @@
+.container  {
+  margin: 0 auto;
+  width: 100%;
+}
+
+section {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.img-min {  
+  width: 64px;
+}
+
+.img-max {
+  width: 128px;
+  border: 3px solid #fff;
+}
+
+.active-img {
+  border: 3px solid black;
+}
